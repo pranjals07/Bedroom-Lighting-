@@ -116,14 +116,18 @@ sudo apt-get install freeglut3-dev
 g++ your_file.cpp -o bedroom -lGL -lGLU -lglut
 ./bedroom
 
-### Notes
+---
+
+**### Notes**
 The scene is fully interactive and uses Phong Lighting Model.
 
 You can experiment with different lighting and material combinations.
 
 The animate() function handles the clock pendulum animation.
 
-### TODO / Future Work
+---
+
+**### TODO / Future Work**
 Add Wardrobe and Dressing Table (code is present but commented out).
 
 Add more interactive objects (fan, door).
