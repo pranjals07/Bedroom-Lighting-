@@ -1,4 +1,4 @@
-# 3D Bedroom Scene using OpenGL
+# 3D Bedroom Lighting using OpenGL
 
 This project renders a detailed 3D **bedroom scene** using **OpenGL + GLUT**.
 
